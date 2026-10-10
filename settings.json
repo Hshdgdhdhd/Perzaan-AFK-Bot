@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Schoolsmp-m6Xm.aternos.me:",
+    "port": 43137
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
